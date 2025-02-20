@@ -10,4 +10,6 @@ cd frontend
 npm install axios react-router-dom
 npm run dev
 
+//install  tailwindcss 
+
 
