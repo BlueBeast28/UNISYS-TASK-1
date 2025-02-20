@@ -1,0 +1,13 @@
+Backend
+cd backend
+npm init -y
+npm install express mongoose dotenv cors
+npm install --save-dev nodemon
+npm run dev
+
+Frontend
+cd frontend
+npm install axios react-router-dom
+npm run dev
+
+
